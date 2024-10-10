@@ -7,6 +7,6 @@ import Canvas from './Canvas.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
-    
+    <Canvas />
   </StrictMode>,
 )
